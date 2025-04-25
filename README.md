@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel, an <a href="https://linkedin.com/in/www.linkedin.com/in/daniel-abarca-53199235b
+<h1>Hi, I'm Daniel, an <a href="https://linkedin.com/in/daniel-abarca-53199235b
 ">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
